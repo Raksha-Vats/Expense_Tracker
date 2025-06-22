@@ -13,8 +13,33 @@ An advanced full-stack expense tracker that helps users manage and settle group 
 
 ---
 ## 🖼️ Project Screenshots
-### 📌 Dashboard View
-![Dashboard](./screenshots/dashboard.png)
+
+> Below are some UI snapshots of the Expense Tracker. All images are stored in the `/screenshots` folder.
+
+### 📌 Sign Up Page
+![Signup](./screenshots/signup.png)
+
+### 📌 Sign In Page
+![Signin](./screenshots/signin.png)
+
+### 📌 Dashboard
+![Dashboard](./screenshots/Dashboard.png)
+
+### 📌 All Groups View
+![All Groups](./screenshots/all groups.png)
+
+### 📌 Create Group
+![Create Group](./screenshots/create_group.png)
+
+### 📌 Group Expense View
+![Group Expense](./screenshots/group_expense.png)
+
+### 📌 Expense Details
+![Expense Details](./screenshots/expense details.png)
+
+### 📌 Group Balance
+![Group Balance](./screenshots/group_balance.png)
+
 
 ## 🧠 Algorithm for Expense Simplification
 
