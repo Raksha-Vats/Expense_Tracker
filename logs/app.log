@@ -1,0 +1,236 @@
+2025-04-23T14:58:39.929Z | INFO   | Server started in PORT | 3001
+2025-04-23T14:58:39.950Z | INFO   | DB Connection Established
+2025-04-23T14:58:39.951Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\Downloads\splitwise_btp\SplitWise-Clone-main\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-23T15:00:37.616Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:00:37.631Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:00:37.698Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:00:37.713Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2025-04-23T15:00:48.870Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:00:48.874Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:00:48.881Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:00:48.884Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2025-04-23T15:01:10.656Z | INFO   | API HIT : [POST] /api/users/v1/register
+2025-04-23T15:01:10.904Z | INFO   | API HIT : [POST] /api/users/v1/login
+2025-04-23T15:01:11.293Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:01:11.297Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:01:11.307Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:01:39.352Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:01:40.718Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:01:42.267Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:01:42.272Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:01:42.289Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:01:43.328Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:01:44.576Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:01:50.580Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:01:52.501Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:02:34.875Z | INFO   | API HIT : [POST] /api/group/v1/add
+2025-04-23T15:02:35.427Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:02:35.446Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-23T15:02:35.450Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-04-23T15:02:40.098Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-23T15:02:43.037Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-23T15:02:47.096Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:03:14.692Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-23T15:03:14.914Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:03:14.930Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-23T15:03:21.401Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:03:22.871Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:03:22.881Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:22.909Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:03:38.439Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:40.239Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:03:41.394Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:43.172Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:03:44.671Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:48.405Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:03:48.414Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:48.431Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:03:52.512Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:55.256Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:03:56.271Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:03:56.280Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:03:56.298Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:04:50.518Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:04:51.998Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:05:04.038Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:05:07.775Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:05:07.788Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-23T15:05:14.230Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-23T15:05:20.022Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:05:22.110Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:05:26.373Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:05:27.250Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:05:30.132Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:05:33.919Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:05:35.731Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:05:35.740Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-23T15:05:39.837Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-23T15:05:51.423Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:05:51.438Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:06:09.074Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:06:09.084Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:06:09.102Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:08:01.455Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:08:01.466Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:08:01.485Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:08:04.005Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:08:05.727Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:08:05.735Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-23T15:08:09.980Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:08:09.992Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-23T15:08:25.900Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:08:25.909Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:08:25.927Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:11:00.871Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:11:01.715Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:11:05.878Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-23T15:11:05.888Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:11:05.902Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-23T15:11:06.597Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-23T15:11:07.419Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-23T15:11:09.189Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:13:54.033Z | INFO   | Server started in PORT | 3001
+2025-04-25T11:13:54.062Z | INFO   | DB Connection Established
+2025-04-25T11:13:54.063Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-25T11:18:31.127Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-25T11:18:31.157Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:18:31.196Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-25T11:18:49.073Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:18:52.401Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:18:52.411Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T11:18:56.491Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T11:19:05.708Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:19:09.107Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-25T11:19:09.116Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:19:09.134Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-25T11:19:19.246Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:19:22.188Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T11:19:24.737Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:19:25.505Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-25T11:19:25.512Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:19:25.528Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-25T11:46:09.732Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:54:58.574Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-25T11:54:58.587Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:54:58.606Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-25T11:55:11.949Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T11:55:14.165Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T11:55:58.715Z | INFO   | API HIT : [POST] /api/group/v1/add
+2025-04-25T11:55:59.541Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:55:59.555Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T11:55:59.559Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-04-25T11:56:06.028Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:56:23.178Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T11:56:23.551Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:56:23.564Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T11:56:26.855Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:56:43.736Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T11:56:44.251Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T11:56:44.266Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:13:08.152Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:13:08.162Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:16:08.864Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:10.089Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:10.115Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:16:12.180Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T14:16:14.186Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:14.194Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:16:19.525Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:42.611Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T14:16:44.494Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:44.506Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:16:46.564Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T14:16:46.573Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:57.871Z | INFO   | API HIT : [POST] /api/group/v1/edit
+2025-04-25T14:16:58.065Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:16:58.080Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:17:03.576Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:17:39.024Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T14:17:39.604Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:17:39.617Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:18:02.067Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:18:28.837Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T14:18:29.370Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:18:29.383Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:29:04.028Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:29:18.142Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:29:24.086Z | INFO   | API HIT : [POST] /api/group/v1/makeSettlement
+2025-04-25T14:29:26.199Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:29:26.213Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:29:30.355Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:29:32.921Z | INFO   | API HIT : [POST] /api/group/v1/makeSettlement
+2025-04-25T14:29:36.938Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:29:36.954Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:29:39.865Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:46:29.460Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:46:52.984Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T14:46:53.839Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:46:53.853Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:49:51.959Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T14:49:53.923Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-04-25T14:49:53.932Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T14:49:53.957Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-04-25T14:49:57.265Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-04-25T14:49:58.875Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:49:58.882Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:50:59.725Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T14:50:59.732Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:51:06.980Z | INFO   | API HIT : [POST] /api/group/v1/edit
+2025-04-25T14:51:07.788Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:51:07.801Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:51:11.119Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:51:11.163Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Maximum call stack size exceeded
+2025-04-25T14:51:15.756Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:51:15.787Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Maximum call stack size exceeded
+2025-04-25T14:51:27.952Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-04-25T14:52:01.231Z | INFO   | API HIT : [POST] /api/group/v1/add
+2025-04-25T14:52:01.711Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:52:01.729Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:52:01.732Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-04-25T14:52:06.875Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:52:54.818Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T14:52:55.372Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:52:55.387Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:53:36.898Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-04-25T14:56:30.215Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:57:30.877Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2025-04-25T14:57:31.405Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-04-25T14:57:31.417Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-04-25T14:57:39.808Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-05-15T20:30:42.714Z | INFO   | Server started in PORT | 3001
+2025-05-15T20:30:42.751Z | INFO   | DB Connection Established
+2025-05-15T20:30:42.752Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-15T20:31:29.692Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-05-15T20:31:29.761Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-15T20:31:29.829Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-05-15T20:31:49.563Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-15T20:32:00.901Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-05-15T20:32:00.915Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-05-15T20:32:07.839Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-05-15T20:32:25.961Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-15T20:32:30.037Z | INFO   | API HIT : [POST] /api/group/v1/view
+2025-05-15T20:32:30.053Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2025-05-15T20:32:32.178Z | INFO   | API HIT : [POST] /api/group/v1/settlement
+2025-05-15T20:39:34.481Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2025-05-15T20:41:09.492Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-05-15T20:41:09.505Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-15T20:41:09.528Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-05-15T20:41:16.704Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-16T03:53:47.693Z | INFO   | Server started in PORT | 3001
+2025-05-16T03:53:47.711Z | INFO   | DB Connection Established
+2025-05-16T03:53:47.712Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-16T03:54:17.921Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-05-16T03:54:17.942Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-16T03:54:17.974Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2025-05-16T03:54:22.975Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-17T06:13:30.193Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2025-05-17T06:13:30.202Z | INFO   | API HIT : [POST] /api/group/v1/user
+2025-05-17T06:13:30.236Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent

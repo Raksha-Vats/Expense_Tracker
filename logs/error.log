@@ -1,0 +1,23 @@
+2025-04-23T14:58:39.951Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\Downloads\splitwise_btp\SplitWise-Clone-main\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-23T15:00:37.631Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:00:37.713Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2025-04-23T15:00:48.874Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:00:48.884Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2025-04-23T15:01:11.297Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:01:42.272Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2025-04-23T15:02:35.450Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-04-25T11:13:54.063Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-25T11:55:59.559Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-04-25T14:51:11.163Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Maximum call stack size exceeded
+2025-04-25T14:51:15.787Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Maximum call stack size exceeded
+2025-04-25T14:52:01.732Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2025-05-15T20:30:42.752Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-16T03:53:47.712Z | ERROR  | DB Connection Fail | ReferenceError: err is not defined
+    at C:\Users\2019r\OneDrive\Desktop\BTP_Expense_Tracker\model\schema.js:9:67
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
